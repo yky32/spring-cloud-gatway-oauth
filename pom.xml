@@ -23,7 +23,6 @@
 
     <modules>
         <module>service-gateway</module>
-        <module>auth-keycloak</module>
         <module>user-service</module>
     </modules>
 
