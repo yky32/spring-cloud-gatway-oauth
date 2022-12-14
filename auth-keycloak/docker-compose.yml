@@ -27,7 +27,7 @@ services:
       KEYCLOAK_USER: kc_admin
       KEYCLOAK_PASSWORD: kc_password
     ports:
-      - 8080:8080
+      - 8085:8080
     depends_on:
       - kc_db
 
